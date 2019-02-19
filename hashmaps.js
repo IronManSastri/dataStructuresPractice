@@ -2,8 +2,8 @@
 
 class MyHashmap {
 
-    constructor(size){
-        this.data = new Array(size);
+    constructor(){
+        this.data = new Array();
     }
 
     _hash(key) {
