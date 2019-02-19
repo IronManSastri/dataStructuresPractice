@@ -1,0 +1,8 @@
+
+
+system design
+
+html, js
+load balancers, devops[jenkins]
+Python - complete application
+Data base- sql, nosql
