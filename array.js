@@ -7,8 +7,8 @@ class MyArray {
         this.data = {};
     }
 
-    get(value){
-        return this.data[value];
+    get(index){
+        return this.data[index];
     }
 
     push(value){
